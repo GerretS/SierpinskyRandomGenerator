@@ -6,7 +6,10 @@ Thanks to the recent [Numberphile Video](https://www.youtube.com/watch?v=kbKtFN7
 
 ## Configuration
 
-Simple change the values in the generator.properties file to make other shapes and sizes of Sierpinsky triangles.
+Simply change the values in the generator.properties file to make other shapes and sizes of Sierpinsky triangles.
+
+## Sample image
+[See here](https://raw.githubusercontent.com/GerretS/SierpinskyRandomGenerator/master/out.png)
 
 ## Next steps
 
