@@ -1,7 +1,7 @@
-package gsanders;
+package nl.gsanders;
 
-import gsanders.generator.Generator;
-import gsanders.generator.GeneratorFactory;
+import nl.gsanders.generator.Generator;
+import nl.gsanders.generator.GeneratorFactory;
 
 /**
  * @author G. Sanders

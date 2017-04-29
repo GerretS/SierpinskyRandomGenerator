@@ -1,4 +1,4 @@
-package gsanders;
+package nl.gsanders;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

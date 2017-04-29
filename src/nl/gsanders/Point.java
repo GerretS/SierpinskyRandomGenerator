@@ -1,4 +1,4 @@
-package gsanders;
+package nl.gsanders;
 
 import java.util.Objects;
 

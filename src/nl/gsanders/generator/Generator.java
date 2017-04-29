@@ -1,7 +1,7 @@
-package gsanders.generator;
+package nl.gsanders.generator;
 
-import gsanders.Point;
-import gsanders.World;
+import nl.gsanders.Point;
+import nl.gsanders.World;
 
 import java.util.List;
 import java.util.Random;
